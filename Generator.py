@@ -1,4 +1,3 @@
-# Author - Rajdeep Pinge
 # Date - 18th April, 2017
 
 # The following link has been referred when writing this code: https://github.com/CMasanto/melody-generator 
